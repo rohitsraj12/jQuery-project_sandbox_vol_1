@@ -13,8 +13,12 @@ Project related jQuery functions for quick implementation
     <tbody>
     <tr>
         <th scope="row">1</th>
-        <td><strong>jQuery - auto form popup </strong></br>
-        When webpage open popup form will open. it also contains php email script so when user submit form, data will go to admin's email id.</td>
+        <td>
+            <h4>jQuery - auto form popup </h4>
+            <p>
+                When webpage open popup form will open. it also contains php email script so when user submit form, data will go to admin's email id.
+            </p>
+        </td>
         <td><a href="https://rohitsraj12.github.io/jQuery-project_sandbox_vol_1/jQuery-auto_form_popup/index.html" target="_blank">check</a></td>
     </tr>
     </tbody>
